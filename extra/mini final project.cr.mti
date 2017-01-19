@@ -1,0 +1,10 @@
+C:/Users/shsh9692/Desktop/jjkkk/mini.v {1 {vlog -work work -vopt C:/Users/shsh9692/Desktop/jjkkk/mini.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module counter
+-- Compiling module main
+-- Compiling module testTcircuit
+
+Top level modules:
+	testTcircuit
+
+} {} {}}

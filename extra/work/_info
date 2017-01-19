@@ -1,0 +1,60 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech64_10.1c\examples
+vcounter
+V3EcRzHK3ioIVZKzXdfJDT2
+r1
+!s85 0
+31
+IdmJlZWmbGWJ2HM0[]lMFC2
+Z0 dC:\Users\shsh9692\Desktop\jjkkk
+Z1 w1484608481
+Z2 8C:/Users/shsh9692/Desktop/jjkkk/mini.v
+Z3 FC:/Users/shsh9692/Desktop/jjkkk/mini.v
+L0 2
+Z4 OL;L;10.1c;51
+Z5 !s108 1484608482.123000
+Z6 !s107 C:/Users/shsh9692/Desktop/jjkkk/mini.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/shsh9692/Desktop/jjkkk/mini.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 NNoZa?9K?_iiLVOFhR7BO3
+!i10b 1
+vmain
+VDBEJa:GlA8>@F14FA_Po31
+r1
+31
+I?1oUPKkmiG87^=_d^PU5k0
+Z9 dC:\Users\shsh9692\Desktop\jjkkk
+R1
+R2
+R3
+L0 17
+R4
+R5
+R6
+R7
+R8
+!s85 0
+!s100 kA?SJd94OoH3hPA_kCoJD0
+!i10b 1
+vtestTcircuit
+VROAo>5h7_`jjETWnN_iP40
+r1
+31
+I13aUXdn60WQ=@0<]IF7_g3
+R9
+R1
+R2
+R3
+L0 184
+R4
+R5
+R6
+R7
+R8
+ntest@tcircuit
+!s85 0
+!i10b 1
+!s100 l=QDWIFlJnZ7J69ieSHJI2

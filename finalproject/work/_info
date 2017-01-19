@@ -1,0 +1,60 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech64_10.1c\examples
+vcounter
+V3EcRzHK3ioIVZKzXdfJDT2
+r1
+!s85 0
+31
+I7SSeflzX[EZ?ANzBc5Rj21
+Z0 dC:\Users\shsh9692\Desktop\jjjl
+Z1 w1484607750
+Z2 8C:/Users/shsh9692/Desktop/jjjl/finalproject.v
+Z3 FC:/Users/shsh9692/Desktop/jjjl/finalproject.v
+L0 1
+Z4 OL;L;10.1c;51
+Z5 !s108 1484607751.611000
+Z6 !s107 C:/Users/shsh9692/Desktop/jjjl/finalproject.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/shsh9692/Desktop/jjjl/finalproject.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 kUQLaoEGNj2CKk9hcWWnK2
+vmain
+VDBEJa:GlA8>@F14FA_Po31
+r1
+31
+Igco27mj16NfgbA79EUIb01
+Z9 dC:\Users\shsh9692\Desktop\jjjl
+R1
+R2
+R3
+L0 16
+R4
+R5
+R6
+R7
+R8
+!s85 0
+!i10b 1
+!s100 UVed?^3g_Vi?Pd>VjQ;Y?3
+vtestTcircuit
+VROAo>5h7_`jjETWnN_iP40
+r1
+31
+IG^obz7BH[3cI=`a5g[Mi>3
+R9
+R1
+R2
+R3
+L0 184
+R4
+R5
+R6
+R7
+R8
+ntest@tcircuit
+!s85 0
+!i10b 1
+!s100 NmH`b^VfmQcb[T@h4EEmf0
